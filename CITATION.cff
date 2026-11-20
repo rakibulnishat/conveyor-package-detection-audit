@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite it as below."
+title: "From desktop to browser: a deployment and evaluation audit of a real-time conveyor package detection system (code, data and results)"
+type: software
+authors:
+  - family-names: Nishat
+    given-names: Md. Rakibul Hasan
+    affiliation: "Department of Mechatronics Engineering, Rajshahi University of Engineering & Technology"
+    orcid: "https://orcid.org/0009-0009-2880-344X"
+  - family-names: Hasib
+    given-names: Abdul
+    affiliation: "Department of Internet of Things and Robotics Engineering, University of Frontier Technology, Bangladesh"
+    orcid: "https://orcid.org/0009-0000-6630-4240"
+repository-code: "https://github.com/rakibulnishat/desktop-to-browser-detection-audit"
+url: "https://nn-nishat.vercel.app/"
+license: MIT
+keywords:
+  - package detection
+  - real-time object detection
+  - serverless deployment
+  - data leakage
+  - explainable AI
