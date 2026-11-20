@@ -1,0 +1,98 @@
+[
+ {
+  "quality": 50,
+  "kb_median": 43.931640625,
+  "kb_max": 45.88671875,
+  "ref_boxes": 359,
+  "onnx_boxes": 359,
+  "matched": 358,
+  "iou_min": 0.8136580346733331,
+  "iou_median": 0.9941595443385225,
+  "cam_max": 0.3542824387550354,
+  "cam_median": 0.02722901850938797
+ },
+ {
+  "quality": 60,
+  "kb_median": 49.1748046875,
+  "kb_max": 51.302734375,
+  "ref_boxes": 359,
+  "onnx_boxes": 360,
+  "matched": 356,
+  "iou_min": 0.7954649116638315,
+  "iou_median": 0.994737298526629,
+  "cam_max": 0.3471933603286743,
+  "cam_median": 0.028571873903274536
+ },
+ {
+  "quality": 70,
+  "kb_median": 57.306640625,
+  "kb_max": 59.8271484375,
+  "ref_boxes": 359,
+  "onnx_boxes": 361,
+  "matched": 359,
+  "iou_min": 0.7867512935709785,
+  "iou_median": 0.995958913814805,
+  "cam_max": 0.13795241713523865,
+  "cam_median": 0.02226695418357849
+ },
+ {
+  "quality": 80,
+  "kb_median": 70.609375,
+  "kb_max": 73.595703125,
+  "ref_boxes": 359,
+  "onnx_boxes": 359,
+  "matched": 358,
+  "iou_min": 0.9101281410460313,
+  "iou_median": 0.9969572321372685,
+  "cam_max": 0.20220643281936646,
+  "cam_median": 0.019441254436969757
+ },
+ {
+  "quality": 85,
+  "kb_median": 82.0625,
+  "kb_max": 85.494140625,
+  "ref_boxes": 359,
+  "onnx_boxes": 358,
+  "matched": 358,
+  "iou_min": 0.9212482808271617,
+  "iou_median": 0.9974160748239727,
+  "cam_max": 0.06398224830627441,
+  "cam_median": 0.017505645751953125
+ },
+ {
+  "quality": 90,
+  "kb_median": 102.48046875,
+  "kb_max": 107.013671875,
+  "ref_boxes": 359,
+  "onnx_boxes": 359,
+  "matched": 358,
+  "iou_min": 0.9384405844629089,
+  "iou_median": 0.9978043913729768,
+  "cam_max": 0.06483638286590576,
+  "cam_median": 0.01453205943107605
+ },
+ {
+  "quality": 95,
+  "kb_median": 148.0625,
+  "kb_max": 155.060546875,
+  "ref_boxes": 359,
+  "onnx_boxes": 359,
+  "matched": 358,
+  "iou_min": 0.9389157575935526,
+  "iou_median": 0.9982441266694799,
+  "cam_max": 0.10246539115905762,
+  "cam_median": 0.013873590156435966
+ },
+ {
+  "quality": 100,
+  "kb_median": 322.095703125,
+  "kb_max": 335.7265625,
+  "ref_boxes": 359,
+  "onnx_boxes": 360,
+  "matched": 359,
+  "iou_min": 0.9138049589732451,
+  "iou_median": 0.9985261248317367,
+  "cam_max": 0.052802979946136475,
+  "cam_median": 0.0135587677359581
+ }
+]

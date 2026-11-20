@@ -1,0 +1,22 @@
+{
+ "ultralytics": "8.4.160",
+ "torch": "2.15.0+cu132",
+ "eigencam_layer": "model.8.m.0.0.attn.pe.conv",
+ "n_conv2d_unfused": 120,
+ "eigencam_act_shape": [
+  1,
+  256,
+  12,
+  20
+ ],
+ "track_conf_used": 0.1,
+ "track_iou_used": 0.7,
+ "tracker_cfg": "tracktrack.yaml",
+ "track_imgsz": 640,
+ "pt_cpu_ms_median_predict": 153.40482649980913,
+ "pt_cpu_ms_first": 172.91290399998616,
+ "fps": 29.97,
+ "n_frames": 191,
+ "desktop_hook_fired_frames": 191,
+ "desktop_layer_is_live_module": true
+}

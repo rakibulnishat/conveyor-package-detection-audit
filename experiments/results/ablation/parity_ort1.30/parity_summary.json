@@ -1,0 +1,45 @@
+{
+ "fps": 29.97,
+ "n_frames": 191,
+ "raw": {
+  "ref_boxes": 359,
+  "onnx_boxes": 359,
+  "matched": 359,
+  "iou_min": 0.9990747205362946,
+  "iou_p01": 0.9991922185953871,
+  "iou_median": 0.9996409591214664,
+  "n_pairs_iou_lt_0999": 0,
+  "conf_absdiff_max": 5.000381469721926e-05,
+  "unmatched_onnx": [],
+  "unmatched_ref": [],
+  "cam_maxabs_max": 0.000500023365020752,
+  "cam_maxabs_median": 0.0004968345165252686,
+  "frames_cam_gt_0p01": 0,
+  "onnx_cpu_ms_first": 256.39505399999507,
+  "onnx_cpu_ms_median": 262.03451999998606,
+  "onnx_cpu_ms_p95": 291.58714220000803
+ },
+ "jpeg85": {
+  "ref_boxes": 359,
+  "onnx_boxes": 358,
+  "matched": 358,
+  "iou_min": 0.9212482808271617,
+  "iou_p01": 0.9639390450123454,
+  "iou_median": 0.9974160748239727,
+  "n_pairs_iou_lt_0999": 334,
+  "conf_absdiff_max": 0.013810531711578367,
+  "unmatched_onnx": [],
+  "unmatched_ref": [
+   {
+    "frame": 136,
+    "conf": 0.2509658634662628
+   }
+  ],
+  "cam_maxabs_max": 0.06421458721160889,
+  "cam_maxabs_median": 0.01759488880634308,
+  "frames_cam_gt_0p01": 178,
+  "onnx_cpu_ms_first": 272.2592709999958,
+  "onnx_cpu_ms_median": 249.67091150000442,
+  "onnx_cpu_ms_p95": 289.92906315000226
+ }
+}

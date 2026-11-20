@@ -1,0 +1,82 @@
+{
+ "n_frames": 191,
+ "threads": 1,
+ "wall_s": 3704.7532267570496,
+ "cam_del_auc": {
+  "mean": 0.3915545979875545,
+  "median": 0.41713844835758207
+ },
+ "inv_del_auc": {
+  "mean": 0.5464493946567257,
+  "median": 0.592004492878914
+ },
+ "rand_del_auc": {
+  "mean": 0.37486270912654746,
+  "median": 0.3786118100086848
+ },
+ "cam_ins_auc": {
+  "mean": 0.5464493946567257,
+  "median": 0.5920044928789139
+ },
+ "inv_ins_auc": {
+  "mean": 0.39155459798755443,
+  "median": 0.41713844835758207
+ },
+ "rand_ins_auc": {
+  "mean": 0.37823368185581746,
+  "median": 0.3766863703727722
+ },
+ "frames_cam_beats_random_deletion": 79,
+ "frames_cam_beats_random_insertion": 168,
+ "loc_chance": 0.21919720767888304,
+ "loc_onnx_point": 0.6910994764397905,
+ "loc_onnx_energy": 0.42784480304891215,
+ "loc_onnx_negsign_point": 0.13089005235602094,
+ "loc_onnx_negsign_energy": 0.13311110962522388,
+ "loc_absmean_point": 0.7068062827225131,
+ "loc_absmean_energy": 0.2653166169973568,
+ "loc_trained_point": 0.6910994764397905,
+ "loc_trained_energy": 0.4278448330267718,
+ "loc_coco_point": 0.03664921465968586,
+ "loc_coco_energy": 0.1370759261884795,
+ "loc_random_s0_point": 0.005235602094240838,
+ "loc_random_s0_energy": 0.14994503292425765,
+ "loc_random_s1_point": 0.24083769633507854,
+ "loc_random_s1_energy": 0.3900668430215245,
+ "loc_random_s2_point": 0.2879581151832461,
+ "loc_random_s2_energy": 0.2726225958288652,
+ "loc_sobel_point": 0.05759162303664921,
+ "loc_sobel_energy": 0.2160073564392734,
+ "rho_onnx": {
+  "mean": 0.9999999999999999,
+  "median": 0.9999999999999998
+ },
+ "rho_onnx_negsign": {
+  "mean": -0.7223418518482495,
+  "median": -0.7181409399468739
+ },
+ "rho_absmean": {
+  "mean": 0.4352235836336962,
+  "median": 0.49681331273112367
+ },
+ "rho_coco": {
+  "mean": -0.10562847449813016,
+  "median": -0.08445198701366341
+ },
+ "rho_random_s0": {
+  "mean": -0.03228201951222793,
+  "median": 0.01872167919581937
+ },
+ "rho_random_s1": {
+  "mean": 0.16113309213392574,
+  "median": 0.09120210420319795
+ },
+ "rho_random_s2": {
+  "mean": 0.06458277298844174,
+  "median": 0.06962707685897324
+ },
+ "rho_sobel": {
+  "mean": -0.061619329851294494,
+  "median": -0.03660046181357315
+ }
+}
